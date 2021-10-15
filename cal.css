@@ -1,0 +1,45 @@
+#button{
+    background-color: blue;
+    width:80px;
+    margin-left:25%;
+    margin-top:5%;
+    font-size:medium;
+    font-style:normal;
+    color:#ecb232;
+    border:black;
+    border-style:solid;
+    
+}
+#a{
+    padding-left: 25%;
+    margin-bottom: 10px;
+}
+#button2{
+    background-color:red;
+    width:80px;
+    margin-left:25%;
+    margin-top:5%;
+    font-size:medium;
+    font-style:normal;
+    color:#ecb232;
+    border:black;
+    border-style:solid;
+}
+#main{
+    background-color: #23caca;
+    border: black;
+    border-style: solid;
+    width: 400px;
+    /* height: 300px; */
+     padding: 15px;
+     margin-left: 30%;
+     margin-top: 10%;
+}
+#total{
+    padding-left: 25%;
+    margin-top: 10px;
+}
+
+ 
+
+    
